@@ -115,4 +115,4 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-alias t="todo.sh"
+alias t="todo.sh -d ~/.todo/config"
