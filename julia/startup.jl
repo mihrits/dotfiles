@@ -1,4 +1,4 @@
-function initcommands()
+function initcommands(repl)
 
 @eval ENV["JULIA_EDITOR"] = "nano"
 
