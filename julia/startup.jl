@@ -1,6 +1,6 @@
 function initcommands(repl)
 
-@eval ENV["JULIA_EDITOR"] = "nano"
+@eval ENV["JULIA_EDITOR"] = "micro"
 
 # packages
 @eval using OhMyREPL
