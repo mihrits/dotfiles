@@ -116,3 +116,5 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 alias t="todo.sh -d ~/dotfiles/todotxt/config"
+alias tb="todo.sh -d ~/dotfiles/todotxt/config_backlog"
+alias bc="bc -l"
