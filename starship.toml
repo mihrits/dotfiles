@@ -55,6 +55,6 @@ $status\
 $character"""
 
 [time]
-format="[$time]($style) "
 disabled = false
+#format="[$time]($style) "
 
