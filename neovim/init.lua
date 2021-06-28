@@ -26,8 +26,9 @@ vim.api.nvim_exec([[
 
 local use = require('packer').use
 require('packer').startup(function()
-    use 'wbthomason/packer.nvim'              -- Package manager
-    use 'JuliaEditorSupport/julia-vim'        -- Support for Julia
+    use "wbthomason/packer.nvim"              -- Package manager
+    use "JuliaEditorSupport/julia-vim"        -- Support for Julia
+    use "voldikss/vim-floaterm"
 end)
 
 -- General options
@@ -86,5 +87,8 @@ g.mapleader = " "
 
 -- Plugin options
 
--- Julia-vim
+-- Floaterm
+g.floaterm_position = "bottom"
+g.floaterm_width = 0.94
+g.floaterm_height = 0.4
 
