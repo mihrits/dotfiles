@@ -1,0 +1,44 @@
+{
+    "julia.enableTelemetry": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula",
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "editor.padding.bottom": 5,
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordWrap": "bounded",
+    "gitlens.defaultDateFormat": "Do MMM YYYY | hh:mm",
+    "gitlens.defaultDateShortFormat": "DD.MM.YY",
+    "cSpell.enableFiletypes": [
+        "jlweave",
+        "julia"
+    ],
+    "workbench.preferredDarkColorTheme": "Dracula",
+    "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "foam.edit.linkReferenceDefinitions": "withExtensions",
+    "cSpell.userWords": [
+        "Bisous"
+    ],
+    "window.zoomLevel": 0,
+    "git.confirmSync": false,
+    "julia.execution.resultType": "inline",
+    "explorer.confirmDelete": false,
+    "cSpell.enabled": false,
+    "latex-workshop.view.pdf.viewer": "tab",
+    "latex-workshop.message.update.show": false,
+    "terminal.integrated.commandsToSkipShell": [
+        "language-julia.interrupt"
+    ],
+    "workbench.editor.wrapTabs": true,
+    "editor.rulers": [
+        100
+    ],
+    "git.postCommitCommand": "push",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "python.showStartPage": false,
+    "editor.wordWrapColumn": 120
+}

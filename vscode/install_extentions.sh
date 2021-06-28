@@ -1,0 +1,17 @@
+code --install-extension christian-kohler.path-intellisense
+code --install-extension dracula-theme.theme-dracula
+code --install-extension eamodio.gitlens
+code --install-extension Gruntfuggly.todo-tree
+code --install-extension James-Yu.latex-workshop
+code --install-extension julialang.language-julia
+code --install-extension ms-python.python
+code --install-extension ms-python.vscode-pylance
+code --install-extension ms-toolsai.jupyter
+code --install-extension ms-vscode-remote.remote-ssh
+code --install-extension ms-vscode-remote.remote-ssh-edit
+code --install-extension ms-vsliveshare.vsliveshare
+code --install-extension naumovs.color-highlight
+code --install-extension PKief.material-icon-theme
+code --install-extension streetsidesoftware.code-spell-checker
+code --install-extension tecosaur.latex-utilities
+code --install-extension yzhang.markdown-all-in-one

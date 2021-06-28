@@ -1,0 +1,6 @@
+# VSCode settings and extention list
+
+Link settings to `~/.config/Code/User/settings.json`.
+
+Run `code --list-extensions | xargs -L 1 echo code --install-extension > install_extentions.sh` and `sh install_extentions.sh` 
+
